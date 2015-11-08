@@ -1,0 +1,5 @@
+ - `$ npm install -g webpack`
+ - `$ git clone https://github.com/kavitshah8/getting-started-with-webpack.git`
+ - `$ npm install`
+ - `$ webpack`
+ - Open index.html in your favorite browser
